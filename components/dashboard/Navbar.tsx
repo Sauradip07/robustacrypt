@@ -197,4 +197,3 @@ export default function DashboardNavbar(props: DashboardNavbarProps) {
     </div>
   );
 }
-
