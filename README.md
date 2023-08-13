@@ -44,6 +44,12 @@ We always need some kind of secured environment in order to implement any projec
 
 🔹 `Type-Safe Development`: TypeScript ensures type checking for a more reliable and maintainable codebase.
 
+# Tracks We are using
+- Auth0
+  ![auth0](https://github.com/bishal7679/robustacrypt/assets/70086051/af3686e1-d241-42e8-8d98-29ef6fd8d3a5)
+
+- Web 3.0
+
 # How to set up locally 💻
  1. Fork the repository and then clone it
  ```bash
